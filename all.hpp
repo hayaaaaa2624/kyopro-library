@@ -1,5 +1,4 @@
 #pragma once
-
 #include "base.hpp"
 
 // Data structures
@@ -32,6 +31,7 @@
 #include "string/kmp.hpp"
 #include "string/rollinghash.hpp"
 #include "string/z_algorithm.hpp"
+#include "string/lcs.hpp"
 
 // Miscellaneous
 #include "misc/compress.hpp"
